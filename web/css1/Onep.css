@@ -1,0 +1,195 @@
+/* This source code is exported from pxCode, you can get more document from https://www.pxcode.io */
+.onep-group {
+  display: flex;
+  background-color: white; }
+
+  .page1-group.layout {
+
+        position: relative;
+        overflow: scroll;
+        min-height: auto;
+        flex-grow: 1;
+        justify-content: center; }
+        .page1-group {
+    display: flex;
+    background-color: white;
+}
+
+textarea:focus, input:focus{
+    outline: none;
+    border: none;
+}
+input:focus {
+    outline: none !important;
+    border-color: #719ECE;
+    box-shadow: 0 0 10px #719ECE;
+}
+.onep-group.layout {
+  position: relative;
+  overflow: hidden;
+  min-height: 812px;
+  flex-grow: 1; }
+
+.onep-flex {
+  display: flex;
+  flex-direction: column; }
+
+.onep-flex.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  flex-grow: 1;
+  margin: 50px 15px; }
+
+.onep-img {
+background: var(--src) center center/contain no-repeat;
+display: inline-block; }
+
+.onep-img.layout {
+  position: relative;
+  height: 12px;
+  width: 20px;
+  min-width: 20px;
+ margin-right: 0px;}
+
+.onep-txt-box.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 99px;
+  min-width: 99px;
+  margin: 56px auto 0px; }
+
+.onep-txt {
+  overflow: visible;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin: 0px;
+  font: 700 28px/1.2 "rabar", Helvetica, Arial, serif;
+  color: black;
+  letter-spacing: 0px;
+  white-space: pre-wrap; }
+
+.onep-txt1 {
+  font: 18px/1.2 "rabar", Helvetica, Arial, serif;
+  color: black;
+  letter-spacing: 0px; }
+
+.onep-txt1.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 99px;
+  min-width: 99px;
+  margin: 56px auto 0px;  }
+
+.onep-group1 {
+  display: flex; }
+
+.onep-group1.layout {
+  position: relative;
+  height: 60px;
+  margin: auto; }
+
+.onep-rect {
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 10px 10px 10px 10px; }
+
+.onep-rect.layout {
+  position: absolute;
+  top: 0px;
+  height: 60px;
+  left: 0px;
+  flex-grow: 1;
+  right: 0px; }
+
+.onep-txt2 {
+
+  font: 18px/1.2 "rabar", Helvetica, Arial, serif;
+  color: black;
+  letter-spacing: 0px;
+background: transparent;
+ margin: 0;
+ padding: 0.8rem 1.6rem;
+ border: 0;}
+
+.onep-txt2.layout {
+  position: relative;
+  top: 8px;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  bottom: 30px;
+  left: 4px;
+  flex-grow: 1;
+  right: 3px; }
+
+  textarea:focus, input:focus{
+    color=black;
+      outline: none;
+  }
+
+.onep-group2 {
+  display: flex; }
+
+.onep-group2.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 112px;
+  min-width: 112px;
+  margin: 77px auto 356px; }
+
+.onep-rect1 {
+  background-color: #1d1e1f;
+  border-radius: 10px 10px 10px 10px; }
+
+.onep-rect1.layout {
+  position: absolute;
+  top: 0px;
+  height: 46px;
+  left: 0px;
+  flex-grow: 1;
+  right: 0px; }
+
+.onep-txt3 {
+  text-align: center;
+  font: 500 20px/1.2 "rabar", Helvetica, Arial, serif;
+  color: white;
+  letter-spacing: 0px; }
+
+.onep-txt3.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  flex-grow: 1;
+  margin: 13px 40px 9px 31px; }
+
+  .re-txt4-box {
+    display: flex;
+    justify-content: flex-end; }
+
+  .re-txt4-box.layout {
+    position: relative;
+    height: -webkit-min-content;
+    height: -moz-min-content;
+    height: min-content;
+
+    margin: -240px auto 242px; }
+
+  .re-txt4 {
+    overflow: visible;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin: 0px;
+    font: 700 28px/1.2 "rabar", Helvetica, Arial, serif;
+    color: black;
+    text-align: center;
+    letter-spacing: 0px;
+    white-space: pre-wrap; }

@@ -1,0 +1,137 @@
+/* This source code is exported from pxCode, you can get more document from https://www.pxcode.io */
+.page1-group {
+  display: flex;
+  background-color: white; }
+
+.page1-group.layout {
+
+      position: relative;
+      overflow: scroll;
+      min-height: auto;
+      flex-grow: 1;
+      justify-content: center; }
+
+.dark-mode:not(img) {
+background: black;
+    filter: invert(100%)
+  }
+
+.dark-mode img {
+   filter: invert(100%);
+}
+.dark-mode i {
+   filter: invert(100%);
+}
+
+textarea:focus, input:focus{
+    outline: none;
+}
+
+.page1-flex {
+  display: flex;
+  flex-direction: column; }
+
+.page1-flex.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  flex-grow: 1;
+  margin: 118px 27px; }
+
+.page1-big-title {
+  font: 700 28px/1.2 "rabar", Helvetica, Arial, serif;
+  color: black;
+  letter-spacing: 0px; }
+
+.page1-big-title.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 99px;
+  min-width: 99px;
+  margin: 0px auto; }
+
+.page1-cover-group {
+  display: flex;
+  background-color: #1d1e1f;
+  border-radius: 10px 10px 10px 10px; }
+
+.page1-cover-group.layout {
+
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 176px 1px 0px 0px; }
+
+.page1-subtitle-box.layout {
+
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 62px;
+  min-width: 62px;
+  margin: 18px auto; }
+
+.page1-subtitle {
+  overflow: visible;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin: 0px;
+  font: 500 20px/1.2 "rabar", Helvetica, Arial, serif;
+  color: white;
+  letter-spacing: 0px;
+  white-space: pre-wrap; }
+
+.page1-cover-group.layout1 {
+   display: inline-block;
+
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+
+  width: min-content;
+margin: 6px;
+vertical-align: bottom;
+ }
+
+.page1-subtitle1-box.layout {
+
+  top:2px;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 62px;
+  min-width: 62px;
+  margin: 18px auto; }
+
+  .new-subtitle {
+    text-align: center;
+    overflow: visible;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin: 0px;
+    font: 500 20px/1.2 "rabar", Helvetica, Arial, serif;
+    color: white;
+    letter-spacing: 0px;
+    white-space: pre-wrap; }
+
+
+
+  .new-cover-group.layout1 {
+
+
+    height: -webkit-min-content;
+    height: -moz-min-content;
+    height: min-content;
+    margin: 50px 1px 196px 0px; }
+
+  .new-subtitle4-box.layout {
+
+    height: -webkit-min-content;
+    height: -moz-min-content;
+    height: min-content;
+
+    min-width: 112px;
+    margin: 11px auto; }
